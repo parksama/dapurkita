@@ -29,6 +29,9 @@
 			<li class="nav-item">
 				<a class="nav-link" href="krisna.php" tabindex="-1">WICAKSONO</a>
 			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/dapurkita/dyah.php" tabindex="-1" aria-disabled="true">Dyahs</a>
+			</li>
 		</ul>
 		<form class="form-inline my-2 my-lg-0">
 			<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
