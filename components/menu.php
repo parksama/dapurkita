@@ -27,6 +27,9 @@
 				<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
 			</li>
 			<li class="nav-item">
+				<a class="nav-link" href="krisna.php" tabindex="-1">WICAKSONO</a>
+			</li>
+			<li class="nav-item">
 				<a class="nav-link" href="/dapurkita/dyah.php" tabindex="-1" aria-disabled="true">Dyahs</a>
 			</li>
 		</ul>
