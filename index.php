@@ -20,7 +20,7 @@
 
 <div class="container">
 	<br>
-	Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum pariatur voluptates aspernatur totam voluptatum, maiores excepturi laborum dicta in voluptas modi magni aut! Sint, laboriosam laborum eius ipsa aspernatur animi?
+	Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum pariatur voluptates aspernatur totam voluptatum, maiores excepturi laborum dicta in voluptas modi magni aut! Sint.
 </div>
 
 </body>
