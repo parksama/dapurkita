@@ -16,13 +16,12 @@
 
 <body>
 
-	<?php include 'components/menu.php' ?>
+<?php include 'components/menu.php' ?>
 
-	<div class="container">
-		<br>
-		Halo ini harasya
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum pariatur voluptates aspernatur totam voluptatum, maiores excepturi laborum dicta in voluptas modi magni aut! Sint, laboriosam laborum eius ipsa aspernatur animi?
-	</div>
+<div class="container">
+	<br>
+	Mau tau rasanya <b>Baby Skin</b> seperti apa? Kuy geura cobain..
+</div>
 
 </body>
 

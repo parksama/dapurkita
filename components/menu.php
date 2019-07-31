@@ -25,6 +25,12 @@
 				</div>
 			</li>
 			<li class="nav-item">
+				<a class="nav-link" href="/ndis.php">Andis</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="baby_skin.php">Baby Skin</a>
+			</li>
+			<li class="nav-item">
 				<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
 			</li>
 			<li class="nav-item">
